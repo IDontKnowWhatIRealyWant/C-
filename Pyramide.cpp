@@ -8,7 +8,7 @@ using namespace std;
  * #########
  */
 
-/* gcc -Wall Pyramide.cpp -o Pyramide.exe */
+/* g++ -Wall Pyramide.cpp -o Pyramide.exe */
 
 int main (int argc, char *argv[]){
 
